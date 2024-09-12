@@ -10,6 +10,7 @@
 
     This line added in BRANCH 1 BRANCH!
 
+    addslashes
     This line added in BRANCH 2 BRANCH!
     </body>
 </html>
