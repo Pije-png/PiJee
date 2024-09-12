@@ -9,5 +9,7 @@
     Index from MAIN BRANCH!
 
     This line added in BRANCH 1 BRANCH!
-</body>
+
+    This line added in BRANCH 2 BRANCH!
+    </body>
 </html>
